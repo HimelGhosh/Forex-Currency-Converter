@@ -1,8 +1,10 @@
 {
-  "name": "06currrencyconvertor",
+  "name": "forex-converter-app",
+  "version": "1.0.0",
+  "description": "A responsive, real-time currency conversion application built with React and Tailwind CSS.",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "author": "Himel Ghosh",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
